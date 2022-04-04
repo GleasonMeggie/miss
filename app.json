@@ -7,7 +7,7 @@
   "env": {
     "PROTOCOL": {
       "description": "协议VMess或VLESS，请填小写的vmess或vless",
-      "value": "vmess",
+      "value": "vless",
       "required": true
     },
     "UUID": {
@@ -17,12 +17,12 @@
     },
     "WS_PATH": {
       "description": "websocket路径",
-      "value": "/ray",
+      "value": "/app",
       "required": true
     }
   },
-  "website": "https://github.com/DaoChen6/Heroku-v2ray",
-  "repository": "https://github.com/DaoChen6/Heroku-v2ray",
+  "website": "https://github.com/GleasonMeggie/miss",
+  "repository": "https://github.com/GleasonMeggie/miss",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
