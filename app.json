@@ -12,12 +12,12 @@
     },
     "UUID": {
       "description": "用户的主ID",
-      "value": "ed98ef48-bc0a-432d-b002-2851861d7ae0",
+      "value": "332c85f0-ac57-4a35-9469-5618dc5d32b6",
       "required": false
     },
     "WS_PATH": {
       "description": "websocket路径",
-      "value": "/ed98ef48-bc0a-432d-b002-2851861d7ae0-vless",
+      "value": "/332c85f0-ac57-4a35-9469-5618dc5d32b6-vless",
       "required": true
     }
   },
