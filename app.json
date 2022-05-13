@@ -13,7 +13,7 @@
     "UUID": {
       "description": "用户的主ID",
       "value": "b7a964af-6eab-4975-b676-b76146742d3f",
-      "required": false
+      "required": true
     },
     "WS_PATH": {
       "description": "websocket路径",
